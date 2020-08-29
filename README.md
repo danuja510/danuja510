@@ -8,7 +8,7 @@
 - 💬 Ask me about ... -->
 - 📫 How to reach me: ...danuja.nimsara@gmail.com
 -    stackoverflow:...https://stackoverflow.com/users/12954108/danuja
-		 LinkedIn: ..https://www.linkedin.com/in/danuja/
+-    LinkedIn: ..https://www.linkedin.com/in/danuja/
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
